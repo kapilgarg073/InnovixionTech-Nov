@@ -1,6 +1,7 @@
 # This Repo Belongs to InnovixionTech Python internship tasks
 <h2> Task 1 : Number Guessing Game With Using Tkinter </h2> </br>
-![image](https://github.com/kapilgarg073/InnovixionTech-Nov/assets/88045962/7a4e43e2-ad88-4b26-abae-8ed8d6f1de15) 
+![image](https://github.com/kapilgarg073/InnovixionTech-Nov/assets/88045962/2a2a6ef3-28b4-403d-867f-628f74f8821f)
+ 
 
 <h2> Task 2 : Phone Book Application (Create a basic contact management system that stores and
 manages contacts, allowing users to add, edit, and delete contacts.) </h2> </br>
